@@ -1,0 +1,16 @@
+# 虚拟环境
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
