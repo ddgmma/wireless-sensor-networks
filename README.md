@@ -13,6 +13,9 @@
 ## 环境配置
 
 ```bash
+# 进入 wireless-sensor-networks 目录
+cd wireless-sensor-networks/
+
 # 创建虚拟环境
 python -m venv venv
 
