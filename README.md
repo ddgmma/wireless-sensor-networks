@@ -15,6 +15,8 @@
 ## 环境配置
 
 ```bash
+# 进入项目文件夹 wireless-sensor-networks
+cd wireless-sensor-networks/
 # 安装依赖
 pip install -r requirements.txt
 ```
